@@ -22,6 +22,9 @@ nav{
     text-align: center;
     border: red 5px solid;
     background-color: yellow;
+    color: rgb(218, 218, 23);
+    
+    
 
 
 }
@@ -29,18 +32,23 @@ nav{
 p#p1{
     position: absolute;
     top: 20%;
-    left: 20%;
-    width: 60%;
+    left: 25%;
+    width: 50%;
     height: 35%;
     z-index: 2;
     border: red 4px solid;
-    background-color: orange;
+    background: orange url("naranja.png") top  left  repeat-y;
     text-align: center;
     color: rgb(218, 16, 16);
-    background: url("") top left repeat-y,
-    hsl(105, 80%, 85%) url("tulipan-1f337.svg") top right repeat-y;
-  padding: 0 70px;
+    text-decoration: overline;
+    font-size: 120%
+    
+   
+    
 }
+  
+
+
 
 p#p2{
     position: absolute;
@@ -86,6 +94,8 @@ section{
 p:hover {
     z-index: 3;
   }
+
+
 
 
 
