@@ -2,8 +2,8 @@
 
 body{
     background-color: rgba(255, 166, 0, 0.74);
-    font-family: cursive;
-    
+    font-family: sans-serif;
+
 }
 h1{
     
@@ -13,8 +13,8 @@ h1{
     text-align: center;
     text-shadow: gray 6px 0;
     text-transform: uppercase;
-    color: white;
-    font-family: sans-serif;
+    color: red;
+    font-family: cursive;
 }
 header{
     background-color: orange
